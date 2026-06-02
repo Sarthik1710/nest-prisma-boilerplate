@@ -1,0 +1,3 @@
+model user {
+    id                  String                  @id @default(cuid())
+}
